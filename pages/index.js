@@ -9,6 +9,8 @@ function Home() {
     return (
         <div style={{overflowX: "hidden"}}>
             <NavBar />
+
+    <h1>Felipe - Deploy</h1>
             <Container fluid style={{ "maxWidth": "1200px", "marginBottom": "250px"}}>
                 <Row>
                     <Col>
