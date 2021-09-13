@@ -30,7 +30,7 @@ function SearchBox() {
 
     return (
         <div className={style.container__search}>
-            <h1 className={style.h1}>Conectando quem precisa com quem sabe fazer</h1>
+            <h1 className={style.h1}>123 Conectando quem precisa com quem sabe fazer</h1>
             <h5 className={style.h5}>Fale o que precisa, e encontre os melhores profissionais do mercado.</h5>
             <input
                 id={'search'}
