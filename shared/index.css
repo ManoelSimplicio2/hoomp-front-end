@@ -1,0 +1,15 @@
+:root {
+    --cor-1: #FFA500;
+}
+
+body {
+    background: white;
+}
+
+.container__global {
+    max-width: 1200px;
+    margin-bottom: 250px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+}
